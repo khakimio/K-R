@@ -1,1 +1,3 @@
-# k_and_r
+# The C Programming Language, by Kernighan and Ritchie
+
+
